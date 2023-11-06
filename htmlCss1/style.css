@@ -1,0 +1,31 @@
+html{
+    font-family: 'Roboto', sans-serif;
+}
+
+body{
+    background-color: beige;
+}
+
+menu{
+    color: blue;
+}
+
+#simbolo{
+    background: lightblue;
+    width: 2%;
+}
+
+#nomes{
+    background: lightblue;
+    width: 300px;
+    height: 200px;
+}
+
+#spanT{
+    color: red;
+    background-color: lightblue;
+}
+
+.nomesIndigenas {
+    font-size: 22px;
+}
